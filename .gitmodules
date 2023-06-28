@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "condTruncMVN"]
 	path = condTruncMVN
 	url = https://github.com/cran/condTruncMVN
-	shallow = true
-	registered = true
 [submodule "matrixNormal"]
 	path = matrixNormal
 	url = https://github.com/phargarten2/matrixnormal
-	shallow = true
-	registered = true
