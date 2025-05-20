@@ -8,6 +8,3 @@
 [submodule "matrixNormal"]
 	path = matrixNormal
 	url = https://github.com/phargarten2/matrixnormal
-[submodule "miWQS"]
-	path = miWQS
-	url = https://github.com/phargarten2/miwqs
