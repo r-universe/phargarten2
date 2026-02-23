@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "condTruncMVN"]
 	path = condTruncMVN
-	url = https://github.com/cran/condTruncMVN
+	url = https://github.com/phargarten2/condtruncmvn
 [submodule "matrixNormal"]
 	path = matrixNormal
 	url = https://github.com/phargarten2/matrixnormal
